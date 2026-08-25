@@ -1,0 +1,7 @@
+
+Det här är de bash-kommandon jag använde för att ta mig till rätt plats i filsystemet och skapa en ny projektmapp samt en textfil:
+
+* pwd - för att ta reda på var jag var i filsystemet
+* cd - för att gå vidare till den mapp där jag ville skapa projektmappen
+* mkdir - för att skapa en ny mapp
+* touch - för att skapa min textfil
