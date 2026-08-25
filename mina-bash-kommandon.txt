@@ -5,3 +5,4 @@ Det här är de bash-kommandon jag använde för att ta mig till rätt plats i f
 * cd - för att gå vidare till den mapp där jag ville skapa projektmappen
 * mkdir - för att skapa en ny mapp
 * touch - för att skapa min textfil
+* ls - för att se vilka filer som finns i den mapp jag befinner mig
